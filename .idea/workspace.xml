@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05fe4144-f4e6-43a2-bbf3-d4abfe105d66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/controllers/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/domain/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/repositories/PublisherRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/services/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/services/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-6-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-6-webapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/bootstrap/BootstrapData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/bootstrap/BootstrapData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ilija/springframework/spring6webapp/domain/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +57,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ilija.mihajlovic/Desktop/spring-6-webapp&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/projects/spring_boot/spring-6-webapp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -127,6 +119,10 @@
       <workItem from="1685012041386" duration="585000" />
       <workItem from="1685014289283" duration="579000" />
       <workItem from="1685022483538" duration="885000" />
+      <workItem from="1686590301444" duration="2752000" />
+      <workItem from="1686593090637" duration="1037000" />
+      <workItem from="1690446250521" duration="1186000" />
+      <workItem from="1690618226000" duration="1965000" />
     </task>
     <servers />
   </component>
